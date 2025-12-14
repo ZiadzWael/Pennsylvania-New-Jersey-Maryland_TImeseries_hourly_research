@@ -17,14 +17,23 @@ Research project conducted by **Karim Mohamed**, **Sherin Shady**, and **Sama El
 
 ## 📁 File Structure
 ├── research_paper.pdf # Complete research paper
+
 ├── Arima-model.ipynb # ARIMA implementation
+
 ├── CNN-model.ipynb # CNN model implementation
+
 ├── LSTM-model.ipynb # LSTM model implementation
+
 ├── prophet-model.ipynb # Prophet implementation
+
 ├── XGBoost-model.ipynb # XGBoost implementation
+
 ├── finalized-preprocessing.ipynb # Data preprocessing pipeline
+
 ├── PJMW_hourly.xlsx # Original dataset
+
 ├── PJMW_hourly_diff_arima.xlsx # Differenced data for ARIMA
+
 ├── PJMW_hourly_preprocessed_*.xlsx # Preprocessed data for each model
 
 ## 🔬 Methodology
