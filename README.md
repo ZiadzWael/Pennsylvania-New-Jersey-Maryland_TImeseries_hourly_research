@@ -1,0 +1,2 @@
+# Pennsylvania-New-Jersey-Maryland_TImeseries_research
+Research conducted with Sherin Shady and Sama Eldessouky comparing time series forecasting models for electricity demand prediction. Evaluated ARIMA, Prophet, XGBoost, LSTM, and CNN on PJMW hourly data. XGBoost achieved lowest errors (MAE: 80.26 MW, R²: 0.988), followed by CNN and LSTM, with Prophet showing interpretability-accuracy tradeoffs.
