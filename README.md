@@ -63,10 +63,6 @@ Research project conducted by **Karim Mohamed**, **Sherin Shady**, and **Sama El
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn tensorflow statsmodels prophet xgboost
 
-2.Run preprocessing:
-
-bash
 jupyter notebook finalized-preprocessing.ipynb
 
-3.Run BestModel
 jupyter notebook XGBoost-model.ipynb  # Best performing model
